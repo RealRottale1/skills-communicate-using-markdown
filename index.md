@@ -5,7 +5,7 @@ A Short meaningfull message
 AIUIURWIUAWRRW
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```javascript
 var myVar = "Hello, world!";
 ```
@@ -18,4 +18,5 @@ var myVar = "Hello, world!";
    ```
 
 Jarveous twist his balls~!
+
 

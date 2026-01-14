@@ -1,7 +1,8 @@
 # Hello World
 ### Hello Again
-aeweaweawaew
+
 A Short meaningfull message
+AIUIURWIUAWRRW
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -15,5 +16,8 @@ var myVar = "Hello, world!";
    - [ ] Outline my portfolio
    - [ ] Introduce myself to the world
    ```
-AAAAAAAAAAAAAAAAAAA
+
+Jarveous twist his balls~!
+
+
 
